@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠 Tech Stack (logo grid)
+## 🛠 Tech Stack
 
 ### Languages
 <p align="center">
