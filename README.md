@@ -1,13 +1,15 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Yagyeshz Vishnoi</h1>
-<h3 align="center">Software Developer • Full-Stack • Cloud & ML</h3>
+<h1 align="center">👋 Hey there, I'm <span style="color:#ff4b4b;">Yagyeshz Vishnoi</span></h1>
+<h3 align="center">💻 Software Developer | 🚀 Full-Stack Engineer | ☁ Cloud & AI Enthusiast</h3>
 
 ---
 
-## 🔥 About
-- Building scalable apps and ML-powered tools.
-- Interested in React/Node, Python/Flask, AWS.
-- Always shipping & learning.
+## 🚀 About Me  
+
+✨ Passionate *problem solver* who loves building apps that blend *scalability, intelligence, and great design*.  
+🌱 Currently exploring *Cloud-native ML systems* and scaling apps with *AWS + React/Node*.  
+💡 I believe in *learning by doing* → turning ideas into impactful projects.  
+⚡ Fun fact: I treat debugging as a treasure hunt 🕵‍♂.  
 
 ---
 
